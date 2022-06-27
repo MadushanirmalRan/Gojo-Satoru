@@ -19,10 +19,10 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94721880952']
-global.premium = ['94721880952']
-global.ownernomer = '94721880952'
-global.ownername = '🐦𝙼𝙰𝙳𝙷𝚄𝚂𝙷𝙰 𝙽𝙸𝚁𝙼𝙰𝙻'
+global.owner = ['94745789907']
+global.premium = ['94745789907']
+global.ownernomer = '94745789907'
+global.ownername = '🐦Madhusha'
 global.botname = '𝗡𝗜𝗠𝗔 𝙱𝙾𝚃'
 global.footer = '©𝙽𝙸𝙼𝙰.'
 global.ig = 'https://github.com/nexusNw'
@@ -30,7 +30,7 @@ global.region = 'Sri Lanka, Western Province, Mirigama'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
 global.packname = '𝙽𝙸𝙼𝙰'
-global.author = '🐦𝙼𝙰𝙳𝙷𝚄𝚂𝙷𝙰'
+global.author = '𝙼𝙰𝙳𝙷𝚄𝚂𝙷𝙰'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
