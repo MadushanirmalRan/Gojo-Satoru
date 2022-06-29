@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['91134456895']
-global.premium = ['91134456895']
-global.ownernomer = '91134456895'
+global.owner = ['94775949304']
+global.premium = ['94775949304']
+global.ownernomer = '94775949304'
 global.ownername = 'Madhusha'
 global.botname = '𝗡𝗜𝗠𝗔 𝙱𝙾𝚃'
 global.footer = '©𝙽𝙸𝙼𝙰.'
